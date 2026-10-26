@@ -1,0 +1,12 @@
+.highlight {
+color: #f10808;
+background-color: #03f71b;
+border-left: 4px solid #2d05f8;
+padding: 12px;
+}
+.teks-besar {
+     font-size: 1.4rem;
+ }
+
+.selesai span { text-decoration: line-through; color: #687386; }
+li { margin-bottom: 8px; }
